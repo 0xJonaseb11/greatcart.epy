@@ -1,12 +1,12 @@
 
 # About The Project
 
-GreatKart is an eCommerce application built with Python Django Framework. Some of the features of this project includes custom user model, categories and products, Carts, Incrementing, Decrementing and removing car items, Unlimited Product image gallery, Orders, Payments, after-order functionalities such as reduce the quantify of sold products, send the order received email, clearing the cart, Order completion page as well as generating an invoice for the order. Also we have a Review and Rating system with the interactive rating stars that even allows you to rate a half-star rating. My account functionalities for the customer who can easily edit his profile, profile pictures, change his account password, and also manage his orders and much more. Finally hosted this application on AWS Elastic Beanstalk 
+GreatKart is an eCommerce application built with Python Django Framework. Some of the features of this project includes `custom user model`, `categories` and `products`, `Carts`, `Incrementing`, `Decrementing` and `removing car items`, `Unlimited Product image gallery`, `Orders`, `Payments`, after-order functionalities such as reduce the quantify of sold products, `send the order received email`, `clearing the cart`, `Order completion` page as well as `generating an invoice for the order`. Also we have a `Review` and `Rating` system with the `interactive rating stars` that even allows you to rate a half-star rating. `My account functionalities` for the customer who can easily edit his profile, `profile pictures`, `change` his `account password`, and also `manage his orders` and much more. <!-- Finally hosted this application on AWS Elastic Beanstalk -->
 
 ## Setup Instructions
 
-1. Clone the repository `git clone https://github.com/dev-rathankumar/greatkart-pre-deploy.git`
-2. Navigrate to the working directory `cd greatkart-pre-deploy`
+1. Clone the repository `git clone https://github.com/0xJonaseb11/greatcart.epy.git`
+2. Navigrate to the working directory `cd greatcart.epy`
 3. Open the project from the code editor `code .` or `atom .`
 4. Create virtual environment `python -m venv env`
 5. Activate the virtual environment `source env/Scripts/activate`
