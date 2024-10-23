@@ -26,20 +26,25 @@ GreatKart is an eCommerce application built with Python Django Framework. Some o
     EMAIL_USE_TLS=True
     ```
     _Note: If you are using gmail account, make sure to [use app password](https://support.google.com/accounts/answer/185833)_
+    
 9. Create database tables
     ```sh
     python manage.py migrate
     ```
+
 10. Create a super user
     ```sh
     python manage.py createsuperuser
     ```
     _GitBash users may have to run this to create a super user - `winpty python manage.py createsuperuser`_
+    
 11. Run server
     ```sh
     python manage.py runserver
     ```
+
 12. Login to admin panel - (`http://127.0.0.1:8000/securelogin/`)
+
 13. Add categories, products, add variations, register user, login, place orders and EXPLORE SO MANY FEATURES
 
 ### Support
